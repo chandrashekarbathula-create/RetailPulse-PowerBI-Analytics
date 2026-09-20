@@ -133,12 +133,57 @@ Business measures were created using DAX, including:
 
 The Power BI report contains six main analytical pages:
 
-1. Executive Overview
-2. Sales Performance
-3. Product & Customer Analysis
-4. Returns Analysis
-5. Delivery & Operations
-6. Target Performance
+---
+
+## 🖥️ Dashboard Preview
+
+### 1. Executive Overview
+
+Provides a high-level view of sales, profit, orders, units sold, returns, delivery performance, monthly sales trends, regional performance, and top-performing products.
+
+![Executive Overview](screenshots/01-executive-overview.png)
+
+---
+
+### 2. Sales Performance
+
+Analyzes sales performance over time using KPIs such as Total Net Sales, Average Order Value, YoY growth, MoM growth, and sales trends.
+
+![Sales Performance](screenshots/02-sales-performance.png)
+
+---
+
+### 3. Product & Customer Analysis
+
+Provides insights into product performance and customer purchasing behavior, helping identify important products and customer segments.
+
+![Product and Customer Analysis](screenshots/03-product-customer-analysis.png)
+
+---
+
+### 4. Returns Analysis
+
+Analyzes returned orders, return rate, refund amount, refund rate, return trends, and reasons for product returns.
+
+![Returns Analysis](screenshots/04-returns-analysis.png)
+
+---
+
+### 5. Delivery & Operations
+
+Tracks operational performance using on-time delivery, late orders, shipping duration, promised delivery duration, and average delay metrics.
+
+![Delivery and Operations](screenshots/05-delivery-operations.png)
+
+---
+
+### 6. Target Performance
+
+Compares actual business performance against sales, profit, and order targets using achievement percentages and variance measures.
+
+![Target Performance](screenshots/06-target-performance.png)
+
+---
 
 ---
 
